@@ -10,5 +10,8 @@ chromedriver
 .vscode/
 .env/
 scrape.py
-creds.json
+credential/credentials_linkedin.txt
 venv
+setup.py
+README.md
+README.rst
